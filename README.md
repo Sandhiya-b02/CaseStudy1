@@ -1,4 +1,4 @@
-# CaseStudy1
+# CaseStudy1 using Pandas
 
 Insights - Find out what type of startups are getting funded in the last few years?
 
